@@ -7,6 +7,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
