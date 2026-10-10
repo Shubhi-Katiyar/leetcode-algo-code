@@ -35,6 +35,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
@@ -45,4 +46,8 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
