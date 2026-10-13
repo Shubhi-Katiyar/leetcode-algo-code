@@ -7,6 +7,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -32,6 +33,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 ## Linked List
@@ -55,6 +57,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -72,5 +75,6 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
