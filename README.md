@@ -72,6 +72,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
