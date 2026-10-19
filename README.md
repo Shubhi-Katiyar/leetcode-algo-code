@@ -26,6 +26,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | ------- |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0700-search-in-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
@@ -79,6 +81,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
