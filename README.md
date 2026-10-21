@@ -13,6 +13,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -59,6 +61,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
@@ -93,4 +96,12 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
