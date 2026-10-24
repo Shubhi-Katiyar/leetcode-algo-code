@@ -36,6 +36,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
