@@ -6,6 +6,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
@@ -65,6 +66,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
@@ -130,4 +132,8 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0733-flood-fill) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
