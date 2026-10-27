@@ -40,6 +40,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0001-two-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
@@ -72,6 +73,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0733-flood-fill) |
@@ -96,6 +98,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
@@ -138,4 +141,16 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
