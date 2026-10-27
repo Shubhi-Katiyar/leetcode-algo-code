@@ -46,6 +46,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
@@ -63,6 +64,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
@@ -87,6 +89,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
