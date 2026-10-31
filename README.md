@@ -96,6 +96,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2235-add-two-integers) |
