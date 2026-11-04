@@ -10,6 +10,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0020-valid-parentheses](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0733-flood-fill) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -107,6 +109,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | ------- |
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 ## Sorting
 |  |
 | ------- |
