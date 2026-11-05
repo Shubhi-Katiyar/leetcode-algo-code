@@ -31,6 +31,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
@@ -63,6 +64,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0141-linked-list-cycle](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0733-flood-fill) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -116,6 +119,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
