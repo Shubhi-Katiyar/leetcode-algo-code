@@ -58,6 +58,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1019-next-greater-node-in-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1669-merge-in-between-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
