@@ -29,6 +29,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
@@ -82,6 +83,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
@@ -169,6 +171,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 ## Counting
 |  |
