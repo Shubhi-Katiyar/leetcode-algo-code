@@ -49,6 +49,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
@@ -115,6 +117,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2235-add-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
@@ -168,6 +171,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
