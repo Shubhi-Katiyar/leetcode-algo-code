@@ -63,6 +63,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0141-linked-list-cycle) |
@@ -85,6 +86,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0001-two-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
@@ -123,6 +125,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
