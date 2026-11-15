@@ -99,6 +99,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0733-flood-fill](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0733-flood-fill) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -117,6 +118,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0007-reverse-integer](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0445-add-two-numbers-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -147,6 +149,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Depth-First Search
 |  |
