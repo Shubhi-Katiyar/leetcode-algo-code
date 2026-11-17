@@ -11,6 +11,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
@@ -49,6 +50,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0142-linked-list-cycle-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -165,6 +167,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
