@@ -9,6 +9,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0014-longest-common-prefix](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
