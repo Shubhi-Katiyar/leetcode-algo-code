@@ -13,6 +13,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
