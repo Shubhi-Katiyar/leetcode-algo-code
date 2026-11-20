@@ -11,6 +11,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -53,6 +54,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0169-majority-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
