@@ -131,6 +131,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0445-add-two-numbers-ii) |
@@ -168,6 +169,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
@@ -238,5 +240,6 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
