@@ -35,6 +35,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0016-3sum-closest](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0137-single-number-ii) |
