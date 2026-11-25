@@ -70,6 +70,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0445-add-two-numbers-ii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [0151-reverse-words-in-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
