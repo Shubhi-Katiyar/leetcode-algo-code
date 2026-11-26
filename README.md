@@ -143,6 +143,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
@@ -241,6 +242,7 @@ A structured collection of my LeetCode solutions and algorithmic problem-solving
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Shubhi-Katiyar/leetcode-algo-code/tree/master/3360-stone-removal-game) |
 ## Memoization
 |  |
 | ------- |
